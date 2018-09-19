@@ -1,7 +1,5 @@
-# Example travis-ci.org node.js project
+# Node.js starter app
 
-This is an example node.js project that uses [vows](http://vowsjs.org) and
-travis-ci.org for continuous integration.
 
 ## Usage
 
@@ -22,16 +20,5 @@ For more information, see `.travis.yml`, read our [Getting Started guide](http:/
 
 Here is a sample status icon showing the state of the master branch:
 
-[![Build Status](https://secure.travis-ci.org/travis-ci/travis-ci-node.js-example.png?branch=master)](http://travis-ci.org/travis-ci/travis-ci-node.js-example)
+[![Build Status](https://travis-ci.org/shivksah-aricent/node-ci-demo.svg?branch=master)](https://travis-ci.org/shivksah-aricent/node-ci-demo)
 
-
-## Support
-
-If you have any questions, we are in `#travis` on irc.freenode.net, on Twitter [@travisci](http://twitter.com/travisci) and have a [mailing list](https://groups.google.com/forum/#!forum/travis-ci).
-
-
-## License
-
-Copyright (C) 2012 Travis CI Development Team
-
-Distributed under the MIT License, the same as Node.js.
